@@ -19,4 +19,4 @@ This function can take 2 numbers. The first number will be divided into the numb
 This function can take 2 numbers. The first number will be divided into the number of times that is in the second number and it will return the floored result.
 
 ## pymath.math()
-This function can take two numbers and one operator.
+This function can take two numbers and one operator. The operator will be used to create a result for the equations with the numbers and it will return the result.
