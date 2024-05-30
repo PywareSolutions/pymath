@@ -1,7 +1,7 @@
 # pymath - Python Library for Math Equations
 
 ## How to Use It
-This library only uses 5 simple functions. All of the functions ask for two arguments, but the addition function and the math function. Make sure you have your numbers in the right order.
+This library only uses 6 simple functions. All of the functions ask for two arguments, but the addition function and the math function. Make sure you have your numbers in the right order.
 
 ## pymath.add()
 This function can take as many numbers as wanted and will return the sum of the numbers added together.
